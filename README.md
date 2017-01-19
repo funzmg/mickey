@@ -8,6 +8,12 @@ It's inspired by [Hyde](http://hyde.getpoole.com), [Medium](http://medium.com), 
 
 See Mickey in action with [the demo site](http://vincentchan.github.io/mickey) or [my personal blog](http://aneverendingdream.com).
 
+
+
+# 博主的github这个项目库地址是 http://vincentchan.github.io/mickey
+
+
+
 ## Contents
 
 - [Installation](#installation)
